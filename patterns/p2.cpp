@@ -12,3 +12,8 @@ int main(){
         cout <<endl;
     }
 }
+
+//output : 3
+// *
+// * *
+// * * *
